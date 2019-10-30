@@ -1,45 +1,44 @@
 nav{
-  width: 80%;
-  border: 5px solid #600000;
-  margin: 5px;
-  padding: 5px
-  text-align: center;
-  background-color: #a5a5a5;
-  position: relative;
+  border:5px solid #600000;
+  width:80%;
+  margin:5px;
+  padding:5px;
+  background-color:#a5a5a5;
 }
 nav li{
-  display: inline;
+  display:inline;
 }
 nav a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 24px;
-  color: #600000;
-  display: inline-block;
-  padding: 5px;
+  font-family:'Ubuntu', sans-serif;
+  font-size:24px;
+  color:#600000;
+  display:inline-block;
+  text-align:center;
+  padding:5px;
 }
 body{
-  background-color: #dbdbdb;
+  background-color:#dbdbdb;
 }
 h1{
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 40px;
-  color: #600000;
+  font-family:'Ubuntu', sans-serif;
+  font-size:40px;
+  color:#600000;
 }
 h2{
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 20px;
-  font-style: italic;
+  font-family:'Ubuntu', sans-serif;
+  font-size:20px;
+  font-style:italic;
 }
 p{
-  font-family: "Trebuchet MS", Helvetica, sans-serif;  
+  font-family:"Trebuchet MS", Helvetica, sans-serif;  
 }
 iframe{
-  border: 8px solid #600000;
-  max-width: 100%;
+  border:8px solid #600000;
+  max-width:100%;
 }
 img{
-  border: 50px solid #600000;
-  border-width: 50px;
-  max-width: 100%;
-  height: auto;
+  border:50px solid #600000;
+  border-width:50px;
+  max-width:100%;
+  height:auto;
 }
