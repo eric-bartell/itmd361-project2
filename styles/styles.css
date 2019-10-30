@@ -44,11 +44,11 @@ p{
 }
 iframe{
   border:8px solid #600000;
-  width:100%;
+  max-width:50%;
 }
 img{
   border:50px solid #600000;
   border-width:50px;
-  width:100%;
+  max-width:100%;
   height:auto;
 }
