@@ -54,7 +54,7 @@ iframe{
 img{
   border:50px solid #600000;
   border-width:50px;
-  max-width:100%;
+  max-width:50%;
   height:auto;
   display: block;
   margin-left: auto;
