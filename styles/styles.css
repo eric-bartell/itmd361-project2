@@ -18,6 +18,14 @@ nav a {
   text-align:center;
   padding:5px;
 }
+nav a:hover{
+  background-color: #600000;
+  color:#a5a5a5;
+}
+nav a.active{
+  color:#a5a5a5;
+  background-color:black; 
+}
 body{
   background-color:#dbdbdb;
 }
